@@ -3,7 +3,7 @@ A simple web-scraping program which will fetch the following details of each boo
 
 **Name**,
 **Image**,
-**Price**and
+**Price** and
 **Rating out of 5**.
 
 The data retrieved is being stored in a remote location in the system, available for review. 
